@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **SneeryEmperor51@gmail.com**
 
-- ⚡ Fun fact: **I'm really into cars and PC's.**
+- 🏎️ Fun fact: **I'm really into cars and PC's.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
