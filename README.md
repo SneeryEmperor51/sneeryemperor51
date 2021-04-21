@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sneery</h1>
+<h1 align="center">Hi, I'm Dilsin</h1>
 <h3 align="center">A soon to be Frontend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneeryemperor51&label=%F0%9F%91%80&color=73e600&style=plastic" alt="sneeryemperor51" /> </p>
