@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsyaboidilsin" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/5425920831554469335-512.png" alt="itsyaboidilsin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sneery" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/5425920831554469335-512.png" alt="sneery" height="30" width="40" /></a>
+<a href="https://twitter.com/itsyaboidilsin" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/5959933821530099343-512.png" alt="itsyaboidilsin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sneery" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/6089548721530099346-512.png" alt="sneery" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
