@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneeryemperor51&label=%F0%9F%91%80&color=73e600&style=plastic" alt="sneeryemperor51" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dilsinnam" target="blank"><img src="https://img.shields.io/twitter/follow/itsyaboidilsin?logo=twitter&style=for-the-badge" alt="itsyaboidilsin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dilsinnam" target="blank"><img src="https://img.shields.io/twitter/follow/dilsinnam?logo=twitter&style=for-the-badge" alt="dilsinnam" /></a> </p>
 
 - 🔭 I’m currently working on: [JDMZone](https://github.com/SneeryEmperor51/JDMZone)
 
