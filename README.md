@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dilsinnam" target="blank"><img src="https://img.shields.io/twitter/follow/dilsinnam?logo=twitter&style=for-the-badge" alt="dilsinnam" /></a> </p>
 
-- 🔭 I’m currently working on: [JDMZone](https://github.com/SneeryEmperor51/JDMZone)
+- 🔭 I’m currently working on: [ValorantOnly](https://github.com/SneeryEmperor51/ValorantOnly)
 
 - 📫 How to reach me: **SneeryEmperor51@gmail.com**
 
